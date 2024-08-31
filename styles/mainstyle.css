@@ -1,7 +1,3 @@
-@import url(main.css);
-@import url(style.css);
-@import url(animation.css);
-
 * {
   margin: 0;
   padding: 0;
@@ -443,7 +439,7 @@ section {
   color: #ededed;
   text-decoration: underline;
 }
-.project-feature{
+.project-feature {
   margin-top: 20px;
 }
 .contact {
