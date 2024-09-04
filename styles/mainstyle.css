@@ -214,9 +214,11 @@ section {
 }
 
 .home-sci {
-  position: absolute;
-  bottom: 40px;
+  position: relative;
+  bottom: -50px;
   width: 170px;
+  /* margin-top: 1000px;
+  margin-right: 2500px; */
   display: flex;
   justify-content: space-between;
 }
@@ -271,6 +273,9 @@ section {
   width: 100%;
 }
 
+.home-container{
+
+}
 .home-imgHover {
   position: absolute;
   top: 0;
